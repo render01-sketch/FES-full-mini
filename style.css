@@ -251,9 +251,11 @@ form {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  padding: 0 24px;
+  padding: 16px 24px;
   gap: 12px;
 }
+
+
 
 input, textarea {
   margin-bottom: 24px;
